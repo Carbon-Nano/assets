@@ -1,11 +1,25 @@
 {
 "name": "Carbon Nano",
+"symbol": "CO2N",
+"type": "ERC20",
+"decimals": 18,
 "website": "https://co2t.io",
 "description": "Carbon Nano Token backed by carbon credits",
 "explorer": "https://polygonscan.com/token/0xC31FBdC017105d65D7A805Ea2590Cf422b02Ef8f",
-"type": "ERC20",
-"symbol": "CO2N",
-"decimals": 18,
 "status": "active",
-"id": "0xC31FBdC017105d65D7A805Ea2590Cf422b02Ef8f"
+"id": "0xC31FBdC017105d65D7A805Ea2590Cf422b02Ef8f",
+"links": [
+{
+"name": "website",
+"url": "https://co2t.io"
+},
+{
+"name": "whitepaper",
+"url": "https://co2t.io/WhitePaper"
+},
+{
+"name": "telegram",
+"url": "https://t.me/carbon_co2t"
+}
+]
 }
