@@ -1,10 +1,10 @@
 {
-"name": "Carbon Nano",
-"symbol": "CO2N",
+"name": "Carbon Token",
+"symbol": "CO2T",
 "type": "ERC20",
 "decimals": 18,
 "website": "https://co2t.io",
-"description": "Carbon Nano token backed by verified carbon credits",
+"description": "CO2T Carbon Token backed by verified carbon credits",
 "explorer": "https://polygonscan.com/token/0xC31FBdC017105d65D7A805Ea2590Cf422b02Ef8f",
 "status": "active",
 "id": "0xC31FBdC017105d65D7A805Ea2590Cf422b02Ef8f",
